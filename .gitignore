@@ -1,0 +1,25 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+.idea/modules.xml
+.idea/NitroSniperGo.iml
+.idea/vcs.xml
+.idea/workspace.xml
+NitroSniperGo_build_*
+NitroSniperGo_build_mac/NitroSniperGo
+NitroSniperGo_build_mac/token.json
+NitroSniperGo_build_win64.zip
+NitroSniperGo_build_win64/token.json
+package-lock.json
